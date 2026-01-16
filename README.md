@@ -13,10 +13,10 @@
 
 Via terminal, rode os seguintes comandos:
 ```  
-git clone https://github.com/EBAC-QE/teste-api-ebac.git
+git clone https://github.com/leuuh/rest-api-testing-lab.git
 ```
 ```
-cd teste-api-ebac
+cd rest-api-testing-lab
 ```
 
 #### Para instalar as dependencias:
@@ -44,10 +44,6 @@ Após abrir o dashboard, prossiga com os passos sugerido pelo Cypress.
 ### Bibliotecas de apoio:
 -Cypress: Framework de automação: https://cypress.io/
 
-
-### Bom exercício ;) 
-Fábio & José Ernesto
-Qualidade de software
 
 
 
